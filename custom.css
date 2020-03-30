@@ -1,0 +1,87 @@
+.titulo {
+    font-size: 30px;
+    margin: 40px;
+}
+
+.body {
+    font-family: 'Fira Sans', sans-serif;
+    background-color: lightgray;
+    margin-left: 4em;
+}
+.city {
+    width: 20%;
+    height: 177px;
+    border: 3px solid black;
+    float: left;
+    margin-left: 35px;
+    margin-bottom: 10px;
+
+}
+
+.city p {
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 8em;
+    font-weight: bold;
+    color: white;
+    font-size: 22px;
+}
+.city :hover{
+    background-color: lightgreen;
+    background-size: cover;
+    color: black;
+    cursor: pointer;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.bg-sao {
+    background-image: url('/Startup/assets/images/sao.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-chi {
+    background-image: url('/Startup/assets/images/chicago.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-ber {
+    background-image: url('/Startup/assets/images/berlim.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-lon {
+    background-image: url('/Startup/assets/images/london.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-hon {
+    background-image: url('/Startup/assets/images/hong\ kong.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-mel {
+    background-image: url('/Startup/assets/images/melbourne.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-par {
+    background-image: url('/Startup/assets/images/paris.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-los {
+    background-image: url('/Startup/assets/images/los\ angeles.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
